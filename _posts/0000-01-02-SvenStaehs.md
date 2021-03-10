@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+You shall not pass! Unless you bring cookies...
 Use the left arrow to go back!
